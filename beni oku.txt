@@ -1,0 +1,2 @@
+MVC mimarisi ile yapılmış butonlara basınca istediğimiz yönde
+hareket etmesini sağlayan animasyon.
